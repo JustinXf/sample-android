@@ -8,6 +8,7 @@ import android.util.Log;
  * 
  */
 public class LogUtil {
+    
     public static final String TAG = "MusicInterface";
     public static final int VERBOSE = 1;
     public static final int DEBUG = 2;
