@@ -48,7 +48,7 @@ public class LogUtil {
     }
 
     public static void e(String tag, String msg) {
-         if (LEVEL <= ERROR) {
+          if (LEVEL <= ERROR) {
             Log.e(TAG, tag + " :"+msg);
         }
     }
